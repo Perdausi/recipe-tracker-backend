@@ -1,0 +1,123 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Filipino Chicken Adobo Recipe",
+      "description": "Chicken Adobo is an authentic Filipino dish and is one of the mostly recognized Filipino foods. Not to be mistaken with Mexican adobo, this dish is uniquely prepared by stewing chicken in vinegar and soy sauce.",
+      "Ingredients": [
+        "2 lbs chicken (note 1)",
+        "3 pieces dried bay leaves (note 2)",
+        "4 tablespoons soy sauce (note 3)",
+        "6 tablespoons white vinegar (note 4)",
+        "5 cloves garlic (note 5)",
+        "1 1/2 cups water",
+        "3 tablespoons cooking oil",
+        "1 teaspoon sugar (note 6)",
+        "1/4 teaspoon salt (note 7)",
+        "1 teaspoon whole peppercorn (note 8)"
+      ],
+      "Instructions": [
+        "Combine chicken, soy sauce, and garlic in a large bowl. Mix well",
+        "Marinate the chicken for at least 1 hour. Note: the longer the time, the better",
+        "2 lbs chicken, 4 tablespoons soy sauce",
+        "Heat a cooking pot. Pour cooking oil.",
+        "3 tablespoons cooking oil",
+        "When the oil is hot enough, pan-fry the marinated chicken for 2 minutes per side.",
+        "Pour-in the remaining marinade, including garlic. Add water. Bring to a boil",
+        "1 1/2 cups water",
+        "Add dried bay leaves and whole peppercorn. Simmer for 30 minutes or until the chicken gets tender",
+        "3 pieces dried bay leaves, 1 teaspoon whole peppercorn",
+        "Add vinegar. Stir and cook for 10 minutes.",
+        "6 tablespoons white vinegar",
+        "Put-in the sugar, and salt. Stir and turn the heat off.Serve hot. Share and Enjoy!"
+      ],
+      "imageUrl": "https://www.seriouseats.com/thmb/ZU-il8yH7iNg8pZUqCCrkdjUtfY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__10__20191023-chicken-adobo-vicky-wasik-19-12ce105a2e1a44dfb1e2673775118064.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Seafood Sinigang",
+      "description": "This version of Seafood Sinigang is simple, but delicious. It is composed of fish steak and shrimp. I also had vegetables such as okra, sitaw (snake beans), and dahon ng mustasa (mustard leaves). It is the perfect dish to serve on a rainy day. I think that the combination of fish and shrimp was successful",
+      "Ingredients": [
+        "2 6 ounces slices fish steak",
+        "1 lb. shrimp cleaned",
+        "2 25g pack Knorr Sinigang na May Miso Recipe Mix",
+        "6 snake beans cut in 2 inch pieces",
+        "8 to 10 pieces mustard leaves",
+        "9 to 12 pieces okra",
+        "2 pieces banana pepper or long green chili",
+        "2 quarts rice wash hugas bigas",
+        "2 medium tomato wedged",
+        "1 medium yellow onion wedged",
+        "3 tablespoons fish sauce patis"
+      ],
+      "Instructions": [
+        "Pour rice wash in a soup pot. Let boil.",
+        "Add tomato and onion. Cook for 5 minutes.",
+        "Add fish and shrimp.",
+        "Add Knorr Sinigang na May Miso Recipe Mix. Stir.",
+        "Put all the vegetables into the pot. Cover and cook for 6 to 8 minutes.",
+        "Pour fish sauce and add the mustard leaves. Cook for 2 minutes.",
+        "Transfer to a serving bowl. Serve with rice.",
+        "Share and enjoy!"
+      ],
+      "imageUrl": "https://www.maggi.ph/sites/default/files/styles/home_stage_1500_700/public/srh_recipes/e99a95e3efc7e5542e64a5a994dad483.jpg?h=28121b77&itok=Avo5je35"
+    },
+    {
+      "id": "3",
+      "title": "Chicken Arroz Caldo Recipe",
+      "description": "Chicken arroz caldo is a type of Filipino rice porridge with chicken slices. It is best served when topped with hard boiled eggs, some chopped scallions, and toasted or roasted garlic. I personally like to squeeze a piece of calamansi or lime over the toppings. It makes the dish taste fresher and delicious.",
+      "Ingredients": [
+        "2 lbs. chicken cut into serving pieces",
+        "1 cup glutinous rice malagkit",
+        "1 Knorr chicken cube",
+        "4 hard boiled eggs",
+        "1/2 cup chopped scallions",
+        "1 medium yellow onion diced",
+        "3 thumbs ginger minced",
+        "4 cloves garlic chopped",
+        "1/4 cup kasubha safflower",
+        "1/2 cup roasted garlic",
+        "6 to 7 cups water",
+        "3 tablespoons cooking oil",
+        "1/4 teaspoon ground black pepper",
+        "2 to 3 tablespoons fish sauce patis"
+      ],
+      "Instructions": [
+        "Heat oil in a deep cooking pot.",
+        "Saute garlic, onion, and ginger.",
+        "  Once the onion gets soft, add the chicken. Saute for 2 to 3 minutes.",
+        " Add the glutinous rice. Cook for 1 minute.",
+        "Pour the water into the pot. Let boil.",
+        " Add the chicken cube. Stir. Cover and cook in medium heat until the rice absorbs the water and the texture becomes porridge-like.",
+        "Note: Stir the mixture once in a while concentrating on the bottom of the pan to make sure that the rice do not stick. You can add more water if needed.",
+        "Add ground black pepper, fish sauce, and kasubha. Stir and cook for 3 minutes.",
+        " Transfer to a serving bowl. Top with scallions, boiled eggs, and roasted garlic. Serve with calamansi or lime."
+      ],
+      "imageUrl": "https://dinnerthendessert.com/wp-content/uploads/2023/10/Arroz-Caldo-9.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Chicken afritada",
+      "description": "Chicken afritada (Filipino stew) is a dish we make back in the Philippines. It's really delicious, and you can substitute pork for chicken or mix them both. It's great over rice!",
+      "Ingredients": [
+        "1 tablespoon vegetable oil",
+        "1 tablespoon vegetable oil",
+        "1 onion, chopped",
+        "1 cup seeded and chopped tomatoes",
+        "1 (3 pound) whole chicken, cut into pieces",
+        "3 cups water",
+        "1 cup tomato sauce (Optional)",
+        "3 potatoes, quartered",
+        "1 green bell pepper, seeded and cut into matchsticks",
+        "1 green bell pepper, seeded and cut into matchsticks",
+        "salt and ground black pepper to taste"
+      ],
+      "Instructions": [
+        "Heat oil in a large wok over medium heat. Add garlic; cook and stir until fragrant, about 3 minutes. Add onion; cook and stir until translucent, about 5 minutes. Stir in chopped tomatoes; cook, mashing with a fork, until flesh and skin separate, about 5 minutes.",
+        "Add chicken to the wok; cook and stir until lightly browned, about 5 minutes. Pour in water; cover and bring to a boil. Stir in tomato sauce; simmer until flavors combine, about 15 minutes.",
+        "Add potatoes to the wok; simmer until tender, about 10 minutes. Stir in bell pepper and carrot; simmer until softened, about 5 minutes. Season with salt and black pepper."
+      ],
+      "imageUrl": "https://www.allrecipes.com/thmb/6PtH42i9oOLhfd0bAc54hTlvcBs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4579268-e59cb5134ebd4910979606b2a68eb532.jpg"
+    }
+  ]
+}
